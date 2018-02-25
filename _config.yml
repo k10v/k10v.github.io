@@ -22,7 +22,7 @@ description: blog
 
 # Build settings
 markdown: kramdown
-theme: fundamental
+#theme: fundamental
 
 
 # Enable theme compononents
