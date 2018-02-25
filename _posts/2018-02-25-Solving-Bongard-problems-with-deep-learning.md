@@ -250,6 +250,8 @@ Feature number  | Values for train images  | Values for test images |  Validatio
 
 *Table 2. Features analysis for problem #62.*
 
+The code for visualisations shown above, and for classification is on github: https://github.com/coolvision/bongard-problems-cnn
+
 ## Results analysis
 
 Results of running algorithm described above on 232 problems (from the [list assembled by H. Foundalis](http://www.foundalis.com/res/bps/bpidx.htm)), are following:
