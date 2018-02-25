@@ -13,14 +13,14 @@ body {
   font-size: 1.0rem;
   color: $textColor;
   background: $base;
-  @media screen and (max-width: $break) {
-    font-size: 1.2rem;
-  }
+  // @media screen and (max-width: $break) {
+  //   font-size: 1.2rem;
+  // }
   // sticky footer
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  overflow-x: hidden;
+  // overflow-x: hidden;
 }
 
 main {

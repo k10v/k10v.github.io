@@ -19,7 +19,9 @@ h1 {
   @media screen and (max-width: $break) {
     margin-top: 5px;
   }
-  width: 350px;
+  @media screen and (min-width: $break) {
+    width: 350px;
+  }  
 }
 h2 {
   // font-size: calc(100% + 0.8vw);

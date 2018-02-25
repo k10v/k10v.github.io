@@ -1,5 +1,11 @@
 
-var shapes_n = 50;
+var shapes_n = 40;
+if (screen.width <= 500) {
+	shapes_n = 8;
+}
+console.log(screen.width, shapes_n);
+
+
 var index = 45000;
 
 var GuiConfig = function() {

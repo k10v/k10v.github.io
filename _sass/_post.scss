@@ -1,5 +1,8 @@
 .problem-example {
-  width: 320px;
+  @media screen and (min-width: $break) {
+    width: 320px;
+  }
+  // width: 320px;
   margin: 5px;
   padding: 10px 10px 7px 10px;
   background-color: rgba(0, 0, 0, 0.2);
@@ -29,8 +32,10 @@
 }
 
 #d3-shapes {
-  margin-left: calc(-100vw / 2 + 700px / 2 + 50px);
-  margin-right: calc(-100vw / 2 + 700px / 2);
+  @media screen and (min-width: $break) {
+    margin-left: calc(-100vw / 2 + 700px / 2 + 50px);
+    margin-right: calc(-100vw / 2 + 700px / 2);
+  }
   margin-top: 5px;
   margin-bottom: 30px;
 }
@@ -77,8 +82,10 @@ img {
 }
 
 #img-map-container {
-  margin-left: calc(-100vw / 2 + 700px / 2);
-  margin-right: calc(-100vw / 2 + 700px / 2);
+  @media screen and (min-width: $break) {
+    margin-left: calc(-100vw / 2 + 700px / 2);
+    margin-right: calc(-100vw / 2 + 700px / 2);
+  }
   overflow: scroll;
 }
 
