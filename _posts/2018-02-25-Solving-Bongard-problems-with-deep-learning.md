@@ -304,7 +304,7 @@ Original problem formulation includes explaining classification rules in natural
 
     Paraphrasing this quote, “What I can create, I understand”. NN would generate new examples of images from Bongard problems, and if this generated images capture the concepts behind classification rule, it might be enough to show understanding of the problem.
 
-Overall, looks like even after 50 years, Bongard problems seem to still be a challenging benchmark for machine learning, It will be interesting to continue  working on a solver.
+Overall, looks like even after 50 years, Bongard problems seem to still be a challenging benchmark for machine learning. It was a nice learning project, and I plan to continue working on a solver.
 
 ## References
 
