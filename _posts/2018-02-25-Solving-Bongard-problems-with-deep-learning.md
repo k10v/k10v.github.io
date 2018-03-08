@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Bongard problmes are named after their inventor, Soviet computer scientist Mikhail Bongard, who was working on pattern recognition in the 1960s. He designed 100 of this puzzles, to be a good benchmark for pattern recognition abilities, and they seem to be challenging for both people and algorithms. Here is an example:
+Bongard problems are named after their inventor, Soviet computer scientist Mikhail Bongard, who was working on pattern recognition in the 1960s. He designed 100 of this puzzles, to be a good benchmark for pattern recognition abilities, and they seem to be challenging for both people and algorithms. Here is an example:
 
 ![](/assets/images/bp/p006.gif)
 *Figure 1.*
